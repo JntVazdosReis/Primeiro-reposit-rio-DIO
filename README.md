@@ -8,4 +8,4 @@ PARTE PRÁTICA 2 - SSH
  teste de autenticação via ssh  
  entendendo comandos
 
-chave ssh criada
+chave ssh criada. "alow"
